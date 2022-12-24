@@ -1,1 +1,1 @@
-# calculadora-de-prestamos
+# Loancalculator-js
